@@ -1,4 +1,3 @@
-Here’s an improved version of your README with better structure, added detail, and spacing between sections for clarity:
 
 ---
 
